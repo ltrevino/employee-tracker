@@ -15,3 +15,8 @@ Run the app locally by navigating to app directry in terminal and running the fo
 > npm i
 
 > node server.js
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/12967754/145116719-d4147bcf-b34c-433a-91a8-b61728ca1643.png)
+
